@@ -4409,3 +4409,6 @@
 [submodule "extensions/zwirn"]
 	path = extensions/zwirn
 	url = https://codeberg.org/polymorphicengine/zwirn-zed-extension.git
+[submodule "extensions/vibe-code-guardian"]
+	path = extensions/vibe-code-guardian
+	url = https://github.com/aresnasa/vibe-code-guardian-zed.git
